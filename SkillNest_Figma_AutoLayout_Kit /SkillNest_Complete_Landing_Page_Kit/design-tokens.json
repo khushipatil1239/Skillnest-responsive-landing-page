@@ -1,0 +1,187 @@
+{
+  "project": "SkillNest",
+  "description": "Fictional bite-sized online learning platform landing page",
+  "colors": [
+    {
+      "name": "Brand / Violet",
+      "hex": "#7657F6"
+    },
+    {
+      "name": "Brand / Violet Hover",
+      "hex": "#6042DF"
+    },
+    {
+      "name": "Text / Ink",
+      "hex": "#202027"
+    },
+    {
+      "name": "Text / Muted",
+      "hex": "#6F707B"
+    },
+    {
+      "name": "Surface / Warm",
+      "hex": "#FAF9F6"
+    },
+    {
+      "name": "Surface / White",
+      "hex": "#FFFFFF"
+    },
+    {
+      "name": "Surface / Lilac",
+      "hex": "#EEE8FF"
+    },
+    {
+      "name": "Surface / Mint",
+      "hex": "#D8F5E8"
+    },
+    {
+      "name": "Surface / Yellow",
+      "hex": "#FFF0B8"
+    },
+    {
+      "name": "Border / Subtle",
+      "hex": "#E9E7E2"
+    }
+  ],
+  "typography": [
+    {
+      "name": "Display / H1",
+      "fontFamily": "Manrope",
+      "fontWeight": "ExtraBold",
+      "desktopSize": 64,
+      "mobileSize": 46,
+      "lineHeight": 1.08
+    },
+    {
+      "name": "Display / H2",
+      "fontFamily": "Manrope",
+      "fontWeight": "ExtraBold",
+      "desktopSize": 46,
+      "mobileSize": 36,
+      "lineHeight": 1.15
+    },
+    {
+      "name": "Heading / Card",
+      "fontFamily": "Manrope",
+      "fontWeight": "Bold",
+      "size": 24,
+      "lineHeight": 1.2
+    },
+    {
+      "name": "Body / Regular",
+      "fontFamily": "DM Sans",
+      "fontWeight": "Regular",
+      "size": 14,
+      "lineHeight": 1.7
+    },
+    {
+      "name": "Body / Small",
+      "fontFamily": "DM Sans",
+      "fontWeight": "Regular",
+      "size": 11,
+      "lineHeight": 1.6
+    },
+    {
+      "name": "Label / Eyebrow",
+      "fontFamily": "DM Sans",
+      "fontWeight": "Bold",
+      "size": 10,
+      "letterSpacing": 1.8,
+      "textTransform": "uppercase"
+    },
+    {
+      "name": "Button / Label",
+      "fontFamily": "DM Sans",
+      "fontWeight": "Bold",
+      "size": 13
+    }
+  ],
+  "spacing": [
+    8,
+    12,
+    16,
+    18,
+    24,
+    32,
+    40,
+    56,
+    64
+  ],
+  "radii": {
+    "largeCard": 22,
+    "courseCard": 18,
+    "button": 100,
+    "brandMark": 10
+  },
+  "components": [
+    {
+      "name": "Button / Primary",
+      "type": "component",
+      "autoLayout": "horizontal",
+      "padding": {
+        "vertical": 15,
+        "horizontal": 22
+      },
+      "gap": 18,
+      "radius": 100,
+      "fill": "#7657F6"
+    },
+    {
+      "name": "Button / Dark",
+      "type": "component",
+      "autoLayout": "horizontal",
+      "padding": {
+        "vertical": 15,
+        "horizontal": 22
+      },
+      "gap": 18,
+      "radius": 100,
+      "fill": "#202027"
+    },
+    {
+      "name": "Button / Light",
+      "type": "component",
+      "autoLayout": "horizontal",
+      "padding": {
+        "vertical": 15,
+        "horizontal": 22
+      },
+      "gap": 18,
+      "radius": 100,
+      "fill": "#FFFFFF"
+    },
+    {
+      "name": "Feature Card",
+      "type": "component-set",
+      "autoLayout": "vertical",
+      "padding": 25,
+      "minHeight": 300,
+      "radius": 22,
+      "variants": [
+        "Lilac",
+        "Yellow",
+        "Mint"
+      ]
+    },
+    {
+      "name": "Course Card",
+      "type": "component",
+      "autoLayout": "vertical",
+      "padding": 20,
+      "radius": 18
+    },
+    {
+      "name": "Brand Mark",
+      "type": "component",
+      "size": "30x30",
+      "radius": 10,
+      "fill": "#7657F6"
+    },
+    {
+      "name": "Eyebrow Label",
+      "type": "component",
+      "autoLayout": "horizontal",
+      "gap": 9
+    }
+  ]
+}

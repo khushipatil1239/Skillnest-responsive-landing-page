@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1180" viewBox="0 0 1440 1180">
+  <rect width="1440" height="1180" fill="#F8FAFC"/>
+  <!-- Header -->
+  <rect x="0" y="0" width="1440" height="92" fill="#FFFFFF"/>
+  <rect x="96" y="28" width="36" height="36" rx="11" fill="#4F46E5"/>
+  <path d="M106 46 L114 54 L124 39" fill="none" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="145" y="52" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="750" fill="#111827">SkillNest</text>
+  <text x="620" y="52" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="550" fill="#475569">Courses</text>
+  <text x="720" y="52" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="550" fill="#475569">For Teams</text>
+  <text x="834" y="52" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="550" fill="#475569">About</text>
+  <rect x="1120" y="22" width="224" height="48" rx="13" fill="#4F46E5"/>
+  <text x="1232" y="52" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle" fill="#FFFFFF">Start learning free</text>
+  <!-- Hero -->
+  <rect x="0" y="92" width="1440" height="535" fill="#EEF2FF"/>
+  <rect x="96" y="169" width="204" height="32" rx="16" fill="#E0E7FF"/>
+  <circle cx="115" cy="185" r="5" fill="#4F46E5"/>
+  <text x="130" y="190" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="750" letter-spacing="0.8" fill="#4338CA">LEARN AT YOUR PACE</text>
+  <text x="96" y="274" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="800" fill="#111827">Build skills.</text>
+  <text x="96" y="340" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="800" fill="#4F46E5">Shape your future.</text>
+  <text x="98" y="390" font-family="Inter, Arial, sans-serif" font-size="19" fill="#475569">Practical courses and expert guidance to help you</text>
+  <text x="98" y="420" font-family="Inter, Arial, sans-serif" font-size="19" fill="#475569">grow with confidence — one lesson at a time.</text>
+  <rect x="96" y="458" width="190" height="56" rx="14" fill="#4F46E5"/>
+  <text x="191" y="492" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="750" text-anchor="middle" fill="#FFFFFF">Explore courses  →</text>
+  <text x="314" y="492" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="650" fill="#334155">See how it works</text>
+  <circle cx="104" cy="558" r="15" fill="#C7D2FE"/><circle cx="126" cy="558" r="15" fill="#A5B4FC"/><circle cx="148" cy="558" r="15" fill="#818CF8"/>
+  <text x="176" y="563" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="650" fill="#475569">Join 12,000+ curious learners</text>
+  <!-- Hero illustration panel -->
+  <rect x="805" y="150" width="535" height="410" rx="30" fill="#FFFFFF"/>
+  <rect x="842" y="184" width="461" height="342" rx="20" fill="#F8FAFC" stroke="#E2E8F0"/>
+  <rect x="870" y="211" width="405" height="54" rx="12" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <circle cx="896" cy="238" r="11" fill="#C7D2FE"/>
+  <rect x="917" y="229" width="130" height="8" rx="4" fill="#CBD5E1"/>
+  <rect x="917" y="243" width="86" height="6" rx="3" fill="#E2E8F0"/>
+  <rect x="870" y="282" width="190" height="212" rx="14" fill="#E0E7FF"/>
+  <rect x="1080" y="282" width="195" height="100" rx="14" fill="#DCFCE7"/>
+  <rect x="1080" y="396" width="195" height="98" rx="14" fill="#FEF3C7"/>
+  <circle cx="965" cy="355" r="34" fill="#4F46E5"/>
+  <path d="M949 355 L961 367 L984 341" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="891" y="420" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="750" fill="#312E81">Design foundations</text>
+  <text x="891" y="445" font-family="Inter, Arial, sans-serif" font-size="12" fill="#4338CA">8 lessons • Beginner</text>
+  <rect x="1098" y="305" width="38" height="38" rx="11" fill="#16A34A"/>
+  <path d="M1108 324 L1116 332 L1128 316" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="1147" y="321" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="750" fill="#166534">Course progress</text>
+  <text x="1098" y="355" font-family="Inter, Arial, sans-serif" font-size="12" fill="#166534">You're on your way!</text>
+  <text x="1098" y="435" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="750" fill="#92400E">Weekly goal</text>
+  <text x="1098" y="462" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800" fill="#92400E">4 / 5 hours</text>
+  <!-- Features -->
+  <text x="96" y="696" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800" fill="#111827">Everything you need to grow</text>
+  <text x="96" y="729" font-family="Inter, Arial, sans-serif" font-size="16" fill="#64748B">Flexible learning tools built around your goals.</text>
+  <!-- Card 1 -->
+  <rect x="96" y="770" width="392" height="235" rx="22" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <rect x="122" y="796" width="54" height="54" rx="15" fill="#E0E7FF"/>
+  <path d="M138 823 L149 812 L160 823 M149 812 V837" fill="none" stroke="#4F46E5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="122" y="891" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="750" fill="#111827">Learn by doing</text>
+  <text x="122" y="923" font-family="Inter, Arial, sans-serif" font-size="15" fill="#64748B">Build real-world skills with hands-on</text>
+  <text x="122" y="946" font-family="Inter, Arial, sans-serif" font-size="15" fill="#64748B">projects and practical exercises.</text>
+  <!-- Card 2 -->
+  <rect x="524" y="770" width="392" height="235" rx="22" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <rect x="550" y="796" width="54" height="54" rx="15" fill="#DCFCE7"/>
+  <circle cx="577" cy="823" r="13" fill="none" stroke="#16A34A" stroke-width="3"/>
+  <path d="M577 815 V823 L584 828" fill="none" stroke="#16A34A" stroke-width="3" stroke-linecap="round"/>
+  <text x="550" y="891" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="750" fill="#111827">Learn on your time</text>
+  <text x="550" y="923" font-family="Inter, Arial, sans-serif" font-size="15" fill="#64748B">Short, focused lessons that fit your</text>
+  <text x="550" y="946" font-family="Inter, Arial, sans-serif" font-size="15" fill="#64748B">schedule and learning style.</text>
+  <!-- Card 3 -->
+  <rect x="952" y="770" width="392" height="235" rx="22" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <rect x="978" y="796" width="54" height="54" rx="15" fill="#FEF3C7"/>
+  <path d="M1005 808 L1010 819 L1022 821 L1013 829 L1015 841 L1005 835 L995 841 L997 829 L988 821 L1000 819 Z" fill="#D97706"/>
+  <text x="978" y="891" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="750" fill="#111827">Grow with experts</text>
+  <text x="978" y="923" font-family="Inter, Arial, sans-serif" font-size="15" fill="#64748B">Get guidance and feedback from</text>
+  <text x="978" y="946" font-family="Inter, Arial, sans-serif" font-size="15" fill="#64748B">people who know the industry.</text>
+  <!-- Footer -->
+  <rect x="0" y="1050" width="1440" height="130" fill="#111827"/>
+  <rect x="96" y="1081" width="30" height="30" rx="9" fill="#818CF8"/>
+  <path d="M104 1095 L111 1102 L119 1089" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="139" y="1103" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="750" fill="#FFFFFF">SkillNest</text>
+  <text x="96" y="1135" font-family="Inter, Arial, sans-serif" font-size="13" fill="#CBD5E1">Small steps today. Bigger possibilities tomorrow.</text>
+  <text x="1040" y="1100" font-family="Inter, Arial, sans-serif" font-size="14" fill="#E2E8F0">Courses</text>
+  <text x="1130" y="1100" font-family="Inter, Arial, sans-serif" font-size="14" fill="#E2E8F0">About</text>
+  <text x="1200" y="1100" font-family="Inter, Arial, sans-serif" font-size="14" fill="#E2E8F0">Contact</text>
+  <text x="1040" y="1136" font-family="Inter, Arial, sans-serif" font-size="12" fill="#94A3B8">© 2026 SkillNest • Learn something new</text>
+</svg>
